@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972590158499",
+    "project_id": "metaudito",
+    "storage_bucket": "metaudito.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972590158499:android:045b8416e04fe033eda516",
+        "android_client_info": {
+          "package_name": "com.example.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972590158499-dh7lbdrrnd8pcecehp7jot7g5m4g0dr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOqV0aMNLRCnEU-GSRY5QG3BMxBE5czrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972590158499-dh7lbdrrnd8pcecehp7jot7g5m4g0dr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
